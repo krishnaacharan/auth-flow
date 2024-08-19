@@ -52,7 +52,7 @@ const AuthModal: React.FC<AuthModalProps> = ({
           </button>
         ) : (
           <div className="flex justify-center mb-12">
-            <img src="/logo.png" alt="Login Icon" className="h-10" />
+            <img src="/logoImg.png" alt="Login Icon" className="h-10" />
           </div>
         )}
         {type === "login" ? (
