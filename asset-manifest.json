@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/auth-flow/static/css/main.d1119c6a.css",
-    "main.js": "/auth-flow/static/js/main.57343053.js",
-    "static/js/453.215ed3c7.chunk.js": "/auth-flow/static/js/453.215ed3c7.chunk.js",
-    "index.html": "/auth-flow/index.html",
-    "main.d1119c6a.css.map": "/auth-flow/static/css/main.d1119c6a.css.map",
-    "main.57343053.js.map": "/auth-flow/static/js/main.57343053.js.map",
-    "453.215ed3c7.chunk.js.map": "/auth-flow/static/js/453.215ed3c7.chunk.js.map"
+    "main.css": "/auth-flow/authPage/static/css/main.d1119c6a.css",
+    "main.js": "/auth-flow/authPage/static/js/main.3507637c.js",
+    "static/js/453.215ed3c7.chunk.js": "/auth-flow/authPage/static/js/453.215ed3c7.chunk.js",
+    "index.html": "/auth-flow/authPage/index.html",
+    "main.d1119c6a.css.map": "/auth-flow/authPage/static/css/main.d1119c6a.css.map",
+    "main.3507637c.js.map": "/auth-flow/authPage/static/js/main.3507637c.js.map",
+    "453.215ed3c7.chunk.js.map": "/auth-flow/authPage/static/js/453.215ed3c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1119c6a.css",
-    "static/js/main.57343053.js"
+    "static/js/main.3507637c.js"
   ]
 }
